@@ -1,70 +1,111 @@
-# Getting Started with Create React App
+# Todo's List - React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The goal of this project is to create a Todo's List by using **React**
 
-## Available Scripts
+![Default Home view](Readme_files/Home_page.png)
 
-In the project directory, you can run:
+### Main features
 
-### `npm start`
+* 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+* 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+*
 
-### `npm test`
+* 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![Default Home view](Readme_files/output_page.png)
 
-### `npm run build`
+* 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![Default Home view](Readme_files/about.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Folder directory of the Project
+```              
+📦Todo_List
+ ┣ 📂node_modules 
+ ┣ 📂public
+ ┃ ┣ 📜favicon.ico
+ ┃ ┣ 📜index.html
+ ┃ ┣ 📜logo134.jpeg
+ ┃ ┣ 📜logo192.png
+ ┃ ┣ 📜logo512.png
+ ┃ ┣ 📜manifest.json
+ ┃ ┗ 📜robots.txt
+ ┣ 📂src
+ ┃ ┣ 📂MyComponents
+ ┃ ┃ ┣ 📜About.js
+ ┃ ┃ ┣ 📜AddTodo.jsx
+ ┃ ┃ ┣ 📜Footer.js
+ ┃ ┃ ┣ 📜Header.js
+ ┃ ┃ ┣ 📜TodoItem.jsx
+ ┃ ┃ ┗ 📜Todos.jsx
+ ┃ ┣ 📜App.css
+ ┃ ┣ 📜App.jsx
+ ┃ ┣ 📜App.test.js
+ ┃ ┣ 📜index.css
+ ┃ ┣ 📜index.js
+ ┃ ┣ 📜logo.svg
+ ┃ ┣ 📜reportWebVitals.js
+ ┃ ┗ 📜setupTests.js
+ ┣ 📜.gitignore
+ ┣ 📜LICENSE
+ ┣ 📜package-lock.json
+ ┣ 📜package.json
+ ┗ 📜README.md
+```
+Note:- Some of  file are only visible after  applying the migrations
+           
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## Version(**Used while making project**) 
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+React :
+     
+     React  17.0.2
+     
+     
+NPM :
+   
+     npm 8.1.2
+     
+   
+## Install project dependencies:(**Ignore if you have following dependencies in you computer**)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Node Js:
+     
+     https://nodejs.org/en/
+     
+     
+NPM :
+   
+     npm install -g npm
+        
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+# Todo's List's - React
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Getting Started
 
-## Learn More
+First clone the repository from Github and switch to the new directory:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+     git clone https://github.com/sa24449/Todos_List.git
+     
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Move to Project directory:
 
-### Code Splitting
+     cd Todos_List
+     
+    
+Download all the direct and transitive dependencies:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+     npm install
+    
 
-### Analyzing the Bundle Size
+You can now run the development server:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+     npm start
+     
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+In Terminal you can find project is running on your local host on successful run  
+   
+     http://localhost:3000
