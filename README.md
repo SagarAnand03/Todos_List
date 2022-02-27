@@ -18,7 +18,7 @@ The goal of this project is to create a Todo's List by using **React**
 
 * 
 
-![Default Home view](Readme_files/about.png)
+![Default Home view](Readme_files/About.png)
 
 ## Folder directory of the Project
 ```              
