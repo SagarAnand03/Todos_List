@@ -6,17 +6,11 @@ The goal of this project is to create a Todo's List by using **React**
 
 ### Main features
 
-* 
-
-* 
-
-* 
-
-* 
+* You can List  the task's  need to complete or things you want to do.
 
 ![Default Home view](Readme_files/Added_todo's.png)
 
-* 
+* More information about Todo's list visit our **home page** 
 
 ![Default Home view](Readme_files/About.png)
 
