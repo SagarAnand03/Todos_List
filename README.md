@@ -10,11 +10,11 @@ The goal of this project is to create a Todo's List by using **React**
 
 * 
 
-*
+* 
 
 * 
 
-![Default Home view](Readme_files/output_page.png)
+![Default Home view](Readme_files/Added_todo's.png)
 
 * 
 
