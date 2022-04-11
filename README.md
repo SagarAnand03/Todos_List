@@ -1,4 +1,5 @@
-# Todo's List - React
+# Todo's List - React # [![stability][0]][1]
+[![npm version][8]][1] 
 
 The goal of this project is to create a Todo's List by using **React**
 
