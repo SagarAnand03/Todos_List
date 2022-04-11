@@ -7,7 +7,7 @@ export const Todos = (props) => {
     margin: "40px auto"
   }
   return (
-    <div className="container " style={mystyle}>
+    <div className="container" style={mystyle}>
       <h3 className="text-center my-3">Todos List</h3>
       {props.todos.length === 0 ? "No Todos to Display" :
         props.todos.map((todo) => {
