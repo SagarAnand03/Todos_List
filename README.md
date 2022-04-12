@@ -63,6 +63,10 @@ NPM :
    
      npm 8.1.2
      
+Bootstrap :
+     
+     Used only in Navbar (v4.0)
+     
    
 ## Install project dependencies:(**Ignore if you have following dependencies in you computer**)
 
