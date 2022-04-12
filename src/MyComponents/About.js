@@ -2,7 +2,6 @@ import React from 'react';
 
 export const About = () => {
     let photo = {
-       
         width:400 ,
         height: 200,
         resizeMode: 'stretch',
@@ -10,7 +9,8 @@ export const About = () => {
     }
     let container={
         minHeight: "70vh",
-        margin: "40px auto"
+        margin: "40px auto",
+        color:"white"
     }
 
     return (

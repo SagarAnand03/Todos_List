@@ -4,10 +4,11 @@ import { TodoItem } from "./TodoItem";
 export const Todos = (props) => {
   let mystyle = {
     minHeight: "70vh",
-    margin: "40px auto"
+    margin: "40px auto",
+    color:"white"
   }
   return (
-    <div className="container " style={mystyle}>
+    <div className="container" style={mystyle}>
       <h3 className="text-center my-3">Todos List</h3>
       {props.todos.length === 0 ? "No Todos to Display" :
         props.todos.map((todo) => {
