@@ -5,7 +5,7 @@ export const Footer = () => {
     position:"relative",
     top:"10vh",
     width:"100%",
-    backgroundColor:"#698474"
+    backgroundColor:"#393E46"
   }
 
   return (
