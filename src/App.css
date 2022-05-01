@@ -24,7 +24,7 @@
   color: white;
 }
 
-/* button css */
+/* button css -- 1 */
 .button1 {
   border-radius: 4px;
   background:linear-gradient(to right, #ff0099, #493240);;
@@ -67,10 +67,49 @@
 }
 
 /* ------------ */
-
-.App-link {
-  color: #61dafb;
+/* button  --  2  css */
+.button2 {
+  border-radius: 4px;
+  background:linear-gradient(to right, #ff0099, #493240);;
+  border: none;
+  color: #fff;
+  text-align: center;
+  font-size: 14px;
+  padding: 10px;
+  width: 100px;
+  transition: all 0.2s;
+  cursor: pointer;
+  box-shadow: 0 10px 20px -8px rgba(0, 0, 0);
+  font-weight: 500;
 }
+
+.button2{
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.button2:after {
+  content: '-';
+  position: absolute;
+  opacity: 0;  
+  text-align: center;
+  transition: 0.1s;
+}
+
+.button2:hover{
+  padding-right: 24px;
+  padding-left:8px;
+  background:linear-gradient(to right, #a8ff78, #78ffd6);
+}
+
+.button2:hover:after {
+  opacity: 1;
+  right: 10px;
+}
+
+
 
 @keyframes App-logo-spin {
   from {
