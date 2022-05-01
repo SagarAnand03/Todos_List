@@ -116,14 +116,14 @@ In Terminal you can find project is running on your local host on successful run
 
 ## Contributors ✨
 
-Thanks go to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Thanks go to these wonderful people ✨✨✨
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href=""><img src="https://avatars.githubusercontent.com/u/89348093?v=4" width="100px;" alt=""/><br /><sub><b>Pritam Panda</b></sub></a><br /><a href="#question-Pritam0077" title="Answering Questions">💬</a> <a href="https://github.com/sa24449/Todos_List/commits?author=Pritam0077" title="Documentation">📖</a> <a href="https://github.com/sa24449/Todos_List/pulls?q=is%3Apr+reviewed-by%3Asa24449" title="Reviewed Pull Requests">👀</a> <a href="#talk-Pritam0077" title="Talks">📢</a></td>
+    <td align="center"><a href="https://github.com/Pritam0077"><img src="https://avatars.githubusercontent.com/u/89348093?v=4" width="100px;" alt=""/><br /><sub><b>Pritam Panda</b></sub></a><br /><a href="#question-Pritam0077" title="Answering Questions">💬</a> <a href="https://github.com/sa24449/Todos_List/commits?author=Pritam0077" title="Documentation">📖</a> <a href="https://github.com/sa24449/Todos_List/pulls?q=is%3Apr+reviewed-by%3Asa24449" title="Reviewed Pull Requests">👀</a> <a href="#talk-Pritam0077" title="Talks">📢</a></td>
   </tr>
 </table>
 
