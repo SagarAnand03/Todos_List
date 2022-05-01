@@ -26,7 +26,13 @@ The goal of this project is to create a Todo's List by using **React**
  ┃ ┣ 📜logo512.png
  ┃ ┣ 📜manifest.json
  ┃ ┗ 📜robots.txt
+ ┣ 📂Readme_files
+ ┃ ┣ 📜About.png
+ ┃ ┣ 📜Added_todo's.png
+ ┃ ┗ 📜Home_page.png
  ┣ 📂src
+ ┃ ┣ 📂Assest
+ ┃ ┃ ┗ 📜background-image-1.jpg
  ┃ ┣ 📂MyComponents
  ┃ ┃ ┣ 📜About.js
  ┃ ┃ ┣ 📜AddTodo.jsx
@@ -107,3 +113,24 @@ You can now run the development server:
 In Terminal you can find project is running on your local host on successful run  
    
      http://localhost:3000
+
+## Contributors ✨
+
+Thanks go to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href=""><img src="https://avatars.githubusercontent.com/u/89348093?v=4" width="100px;" alt=""/><br /><sub><b>Pritam Panda</b></sub></a><br /><a href="#question-Pritam0077" title="Answering Questions">💬</a> <a href="https://github.com/sa24449/Todos_List/commits?author=Pritam0077" title="Documentation">📖</a> <a href="https://github.com/sa24449/Todos_List/pulls?q=is%3Apr+reviewed-by%3Asa24449" title="Reviewed Pull Requests">👀</a> <a href="#talk-Pritam0077" title="Talks">📢</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+## LICENSE
+
+[MIT](LICENSE)
